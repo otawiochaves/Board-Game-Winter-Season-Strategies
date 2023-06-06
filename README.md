@@ -30,7 +30,11 @@ The primary objectives of this project are:
 
 5. Conclusion and Strategic Plan: Summarize the key findings and insights derived from the analyses. Based on the results, develop a comprehensive strategic plan for the upcoming winter season, considering factors such as game selection, marketing strategies, and potential growth opportunities.
 
-## Project Presentation
+## Project Visualizations
+
+The most relevant visualizations generated during the data analysis phase are available in the "Project views" folder of this project. These visualizations provide insights and help answer the questions explored in the project.
+
+## Exploration
 
 The project findings and strategic plan will be presented in a clear and concise manner, providing actionable insights to assist in decision-making for board game enthusiasts, industry professionals, or anyone interested in the board game market.
 
