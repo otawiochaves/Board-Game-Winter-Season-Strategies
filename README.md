@@ -2,6 +2,12 @@
 
 Welcome to my board game data analysis project! This project is part of my Higher National Diploma graduation and focuses on exploring various analyses and visualizations related to board games. The objective is to gain insights and create a comprehensive strategic plan for the upcoming winter season based on statistical methods and data visualizations.
 
+## Dataset
+
+The dataset used for this project is sourced from Kaggle and is related to board games. It provides a comprehensive collection of information about various board games, including details such as game name, average rating, complexity, number of players, and more.
+
+The dataset can be accessed on Kaggle using the following link: Board Games Dataset
+
 ## Project Objectives
 
 The primary objectives of this project are:
