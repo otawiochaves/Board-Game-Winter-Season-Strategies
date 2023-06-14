@@ -16,17 +16,27 @@ The dataset can be accessed on Kaggle using the following link: https://www.kagg
 
 The primary objectives of this project are:
 
-1. Top 5 Average Game Rated: Identify and showcase the top 5 board games with the highest average ratings. This will provide valuable insights into the most popular and highly regarded games among users.
+1. Top 5 Average Game Rated: Identify and showcase the top 5 board games with the highest average ratings. This will provide valuable insights into the most popular and highly regarded games among users. 
+
+![Descrição da imagem](Project%20Views/Bar%20chart%20Seaborn%20(Top%205%20Average%20Game%20Rated).png)
 
 2. Correlation between Users Rated and Max Playtime: Analyze the correlation between the number of users who rated a board game and its maximum playtime. This analysis will help understand if longer playtime influences user engagement and ratings.
 
 3. Distribution of Game Categories: Explore and visualize the distribution of game categories. This analysis will provide insights into the popularity and variety of different game genres.
 
+![Descrição da imagem](Project%20Views/Distribution%20of%20game%20categories..png)
+
 4. Comparing Average Game Ratings before and after 1992: Compare the average game ratings before and after 1992 to identify any significant changes over time. This analysis will help understand the evolution of board game ratings.
+
+![Descrição da imagem](Project%20Views/Line%20plot%20(Comparing%20Average%20Game%20Ratings%20before%20and%20after%201992).png)
 
 5. Three Most Common Mechanics: Identify the three most common game mechanics used in board games. This information will provide insights into the popular gameplay mechanisms among board game enthusiasts.
 
+![Descrição da imagem](Project%20Views/Bar%20Chart%20(Three%20most%20common%20Mechanics).png)
+
 6. Number of Board Games Released and Annual Growth Rate over the Years: Analyze the number of board games released each year and calculate the annual growth rate. This analysis will help understand the growth trends and dynamics of the board game industry.
+
+![Descrição da imagem](Project%20Views/Line%20Chart%20(two%20y%20axes)%20Number%20of%20Board%20Games%20Released%20and%20Annual%20Growth%20Rate%20over%20the%20years..png)
 
 ## Project Workflow
 
@@ -42,7 +52,7 @@ The primary objectives of this project are:
 
 ## Project Visualizations
 
-The most relevant visualizations generated during the data analysis phase are available in the "Project views" folder of this project. These visualizations provide insights and help answer the questions explored in the project.
+The project's "Project Views" folder contains additional relevant views created during the data analysis phase.
 
 ## Exploration
 
