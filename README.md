@@ -1,6 +1,10 @@
 # Board Game Data Analysis Project
 
-Welcome to my board game data analysis project! This project is part of my Higher National Diploma graduation and focuses on exploring various analyses and visualizations related to board games. The objective is to gain insights and create a comprehensive strategic plan for the upcoming winter season based on statistical methods and data visualizations.
+Welcome to my board game data analysis project! This project is part of my Higher National Diploma graduation and focuses on exploring various analyses and visualizations related to board games. The objective is to gain insights and create a comprehensive strategic plan for the upcoming winter season based on statistical methods and data visualizations. 
+
+<p align="center">
+  <img src="https://s.yimg.com/ny/api/res/1.2/H8a.pt2Hh9ecC_jzrAotyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MDtjZj13ZWJw/https://media.zenfs.com/en/gobankingrates_644/4464a542bd2bf3c1300d1ae8de26441b" width="70%">
+</p>
 
 ## Dataset
 
